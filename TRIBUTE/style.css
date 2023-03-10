@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(img/ivan-gromov-Y3vPEuNlf7w-unsplash.jpg);
+}
+.head {
+    
+    
+    text-align: center;
+    border: solid 4px #000000;
+    background-color: #eeebdee5;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+
+.summary {
+    color: #49400b;
+    text-align: center; 
+    padding: 10px 40px 30px 10px;
+ 
+ }
+ 
+#bio {
+    color: rgb(0, 0, 0);
+    line-height: 20px;
+    font-family: sans-serif;
+}
+.paragraph{
+   
+   justify-content: center;
+    line-height: 30px;
+    text-align: center;
+    color: rgb(11, 14, 17);
+    font-size: 20px;
+    font-weight: 200;
+
+}
+
+#container {
+       display: block;
+       padding-left:  150px;
+       padding-right: 150px;
+
+      
+}
